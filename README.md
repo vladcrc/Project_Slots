@@ -1,7 +1,7 @@
 # Slot Machine Simulation Project
 
 ## Introduction
-Our project simulates a slot machine game using a hardware platform. This game is a replica of a slot machine.
+My project simulates a slot machine game using a hardware platform. This game is a replica of a slot machine.
 
 ### What the project does
 The project allows users to experience the basic mechanics of a slot game. By pressing a button, an animation symbolizing the run is triggered, and the result is displayed by a combination of emojis.
