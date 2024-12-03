@@ -16,7 +16,6 @@ I proposed to combine entertainment with education, using a well-known concept -
 It is useful because it can help gambling addicts to play without financial implications.
 
 ## General Description
-The project consists of an integrated hardware and software system simulating a slot machine game. Below is an overview of the key modules and their interactions.
 
 ## Hardware Design
 
