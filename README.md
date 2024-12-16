@@ -21,7 +21,8 @@ It is useful because it can help gambling addicts to play without financial impl
 ###  1.Diagram Bloc
 ![image](https://github.com/user-attachments/assets/1e849494-b9d1-440c-81a4-4719f75e4b1a)
 ### 2.Electrict Schema
-![WhatsApp Image 2024-12-17 at 00 42 38_42159778](https://github.com/user-attachments/assets/96b41914-e1e5-4bb3-ae6d-9550f79d8282)
+![arduino_slot_game_block_diagram 2](https://github.com/user-attachments/assets/24672675-0dbc-464b-899b-235f1d7a5ea2)
+
 ### 3.Componente
 | **Nr.** | **Component**         | **Cantitate** | **Descriere**                          | **Link/Datasheet**                                                                 |
 |---------|-----------------------|---------------|----------------------------------------|----------------------------------------------------------------------------------|
