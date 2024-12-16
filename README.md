@@ -30,9 +30,9 @@ It is useful because it can help gambling addicts to play without financial impl
 | **3**   | LCD 16x2 (fără I2C)   | 1             | Afișaj                                 | [Kit](#)                                                                        |
 | **4**   | Joystick              | 1             | Control pentru mișcări și selecții     | [Kit](#)                                                                        |
 | **5**   | Buzzer                | 1             | Generare sunete                        | [Kit](#)                                                                        |
-| **6**   | Cabluri (Jumper Wires)| 20+           | Conexiuni electrice                    | -                                                                                |
-| **7**   | Breadboard            | 1             | Platformă pentru prototipare           | -                                                                                |
-| **8**   | Mini Breadboard       | 1             | Prototipare pentru componente mici     | -                                                                                |
+| **6**   | Cabluri (Jumper Wires)| 20+           | Conexiuni electrice                    | [Kit](#)                                                                        |
+| **7**   | Breadboard            | 1             | Platformă pentru prototipare           | [Kit](#)                                                                        |
+| **8**   | Mini Breadboard       | 1             | Prototipare pentru componente mici     | [Kit](#)                                                                        |
 
 
 ### 4.Components Used and Their Roles:
