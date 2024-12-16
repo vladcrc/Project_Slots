@@ -30,7 +30,7 @@ It is useful because it can help gambling addicts to play without financial impl
 9	Breadboard	1		
 10 MiniBreadboard 1 
 
-###4.![Components Used and Their Roles:]
+### 4.![Components Used and Their Roles:]
 
 Arduino Uno:
 The main microcontroller that controls all components.
