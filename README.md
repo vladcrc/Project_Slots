@@ -23,14 +23,14 @@ It is useful because it can help gambling addicts to play without financial impl
 ### 2.Electrict Schema
 ![WhatsApp Image 2024-12-17 at 00 42 38_42159778](https://github.com/user-attachments/assets/96b41914-e1e5-4bb3-ae6d-9550f79d8282)
 ### 3.Componente
-1	Arduino Uno	1	Microcontroller principal	kit
-2	Matrice LED 8x8	1	Controlata prin MAX7219	Datasheet MAX7219 : https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf 
-3	LCD 16x2 (fara I2C)	1	Afisaj	kit
-4	Joystick	1	pentru control	kit
-5	Buzzer 	1	kit
-8	Cables	20+	Conexiuni electrice	
-9	Breadboard	1		
-10 MiniBreadboard 1 
+1	Arduino Uno	1	Microcontroller principal	kit/
+2	Matrice LED 8x8	1	Controlata prin MAX7219	Datasheet MAX7219 : https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf /
+3	LCD 16x2 (fara I2C)	1	Afisaj	kit/
+4	Joystick	1	pentru control	kit/
+5	Buzzer 	1	kit/
+8	Cables	20+	Conexiuni electrice	/
+9	Breadboard	1		/
+10 MiniBreadboard 1 /
 
 ### 4.Components Used and Their Roles:
 
@@ -58,18 +58,19 @@ Potentiometers:
 LCD Contrast Adjustment: Central pin → VO pin on the LCD.
 
 ### 5.Pin Connections Table
-Component	Arduino Uno Pin	Component Pin	Description
-8x8 LED Matrix (MAX7219)	D11	DIN	Data input (SPI)
-D13	CLK	Clock signal (SPI)
-D10	CS	Chip select (SPI)
-LCD 16x2	D4, D5, D6, D7, D8, D9	RS, EN, D4-D7	Data/control pins
-Joystick	A1, A0, D2	VRx, VRy, SW	Analog inputs + button
-Buzzer	D9	(+)	PWM signal for sound
-Potentiometer (Contrast)	-	VO (LCD)	Adjust LCD contrast
-Potentiometer (Volume)	-	Buzzer control	Adjust buzzer volume
+### Pin Connections Table
 
+| **Component**                 | **Arduino Uno Pin**          | **Component Pin**         | **Description**                    |
+|-------------------------------|-----------------------------|---------------------------|------------------------------------|
+| **8x8 LED Matrix (MAX7219)**  | **D11**                     | **DIN**                   | Data input (SPI)                   |
+|                               | **D13**                     | **CLK**                   | Clock signal (SPI)                 |
+|                               | **D10**                     | **CS**                    | Chip select (SPI)                  |
+| **LCD 16x2**                  | **D4, D5, D6, D7, D8, D9**  | **RS, EN, D4-D7**         | Data/control pins                  |
+| **Joystick**                  | **A1, A0, D2**              | **VRx, VRy, SW**          | Analog inputs + button             |
+| **Buzzer**                    | **D9**                      | **(+)**                   | PWM signal for sound               |
+| **Potentiometer (Contrast)**  | **-**                       | **VO (LCD)**              | Adjust LCD contrast                |
+| **Potentiometer (Volume)**    | **-**                       | **Buzzer control**        | Adjust buzzer volume               |
 
-Here is the energy consumption section formatted for GitHub in Markdown:
 
 ### 6.Power Consumption
 Arduino Uno:
