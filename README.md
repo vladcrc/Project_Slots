@@ -79,7 +79,7 @@ The MAX7219 manages the current for the LEDs with a maximum of 40 mA per segment
 Buzzer and LCD:
 Both have a low power consumption, approximately 20-30 mA each.
 
-###7.![Image of implamantation]
+###7.Image of implamantation
 
 ## Software Design
 
