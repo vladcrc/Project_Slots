@@ -23,14 +23,17 @@ It is useful because it can help gambling addicts to play without financial impl
 ### 2.Electrict Schema
 ![WhatsApp Image 2024-12-17 at 00 42 38_42159778](https://github.com/user-attachments/assets/96b41914-e1e5-4bb3-ae6d-9550f79d8282)
 ### 3.Componente
-1	Arduino Uno	1	Microcontroller principal	kit/
-2	Matrice LED 8x8	1	Controlata prin MAX7219	Datasheet MAX7219 : https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf /
-3	LCD 16x2 (fara I2C)	1	Afisaj	kit/
-4	Joystick	1	pentru control	kit/
-5	Buzzer 	1	kit/
-8	Cables	20+	Conexiuni electrice	/
-9	Breadboard	1		/
-10 MiniBreadboard 1 /
+| **Nr.** | **Component**         | **Cantitate** | **Descriere**                          | **Link/Datasheet**                                                                 |
+|---------|-----------------------|---------------|----------------------------------------|----------------------------------------------------------------------------------|
+| **1**   | Arduino Uno           | 1             | Microcontroller principal              | [Kit](#)                                                                        |
+| **2**   | Matrice LED 8x8       | 1             | Controlată prin MAX7219                | [MAX7219 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf) |
+| **3**   | LCD 16x2 (fără I2C)   | 1             | Afișaj                                 | [Kit](#)                                                                        |
+| **4**   | Joystick              | 1             | Control pentru mișcări și selecții     | [Kit](#)                                                                        |
+| **5**   | Buzzer                | 1             | Generare sunete                        | [Kit](#)                                                                        |
+| **6**   | Cabluri (Jumper Wires)| 20+           | Conexiuni electrice                    | -                                                                                |
+| **7**   | Breadboard            | 1             | Platformă pentru prototipare           | -                                                                                |
+| **8**   | Mini Breadboard       | 1             | Prototipare pentru componente mici     | -                                                                                |
+
 
 ### 4.Components Used and Their Roles:
 
