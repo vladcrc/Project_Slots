@@ -162,7 +162,6 @@ https://www.youtube.com/shorts/4Pm8iQ6MwEQ
 
 ## Functionality of the game 
 
-###Snake Game Project Description
 #### 1. Game Menu
 
 When the game starts, a menu system is displayed on the LCD screen with the following options:
