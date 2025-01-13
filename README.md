@@ -94,7 +94,7 @@ Both have a low power consumption, approximately 20-30 mA each.
 
 ## Software Design
 
-####Libraries:
+#### Libraries:
 
 LedControl.h
 This library is used to control the 8x8 LED matrix connected through the MAX7219 driver.
@@ -119,7 +119,7 @@ Why this library :
 
 The core library that provides essential functions for the project.
 
-####The laboratories used in this project :
+#### The laboratories used in this project :
 
 Lab 2: Interrupts and Timers
 In this project, timers are essential for controlling the flow of the game. The game’s timers are responsible for:
